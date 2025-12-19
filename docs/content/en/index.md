@@ -6,7 +6,7 @@ seo:
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown Edited in VSCode 4th time. I hope this will work. This is from mysite 2nd attempt. 3rd time's the charm!
+Write beautiful docs with Markdown Edited in VSCode 4th time. I hope this will work. This is from mysite 2nd attempt. 3rd time's the charm! this after PNPM modified.
 
 #description
 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. :br Docus brings the best of the Nuxt ecosystem.
